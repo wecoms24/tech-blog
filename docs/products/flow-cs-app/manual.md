@@ -2,7 +2,7 @@
 title: 기술 소개·구동·배포 매뉴얼
 parent: flow-cs-app
 grand_parent: 제품
-nav_order: 1
+nav_order: 2
 permalink: /products/flow-cs-app/manual/
 ---
 

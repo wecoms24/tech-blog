@@ -11,6 +11,7 @@ permalink: /
 
 | 분류 | 문서 |
 |---|---|
+| 제품 › flow-cs-app | [상담 AP 기능 소개]({{ "/products/flow-cs-app/features/" | relative_url }}) |
 | 제품 › flow-cs-app | [상담 AP React 판 기술 소개·구동·배포 매뉴얼]({{ "/products/flow-cs-app/manual/" | relative_url }}) |
 
 문서는 각 제품 저장소의 `docs/shared/guide/` 원본을 옮긴 것이고, 기준 일자와 브랜치가 글머리에 적혀 있다.

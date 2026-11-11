@@ -12,4 +12,5 @@ Flow 상담 AP(컨택센터 상담 애플리케이션). Spring Boot 백엔드와
 
 | 문서 | 내용 |
 |---|---|
+| [기능 소개]({{ "/products/flow-cs-app/features/" | relative_url }}) | 상담사 작업대(통합상담), 고객·민원·업무, 캠페인, 품질·교육, 지식·AI, 관리 화면, Vue 판/React 판 범위 표 |
 | [기술 소개·구동·배포 매뉴얼]({{ "/products/flow-cs-app/manual/" | relative_url }}) | 제품 소개, 기술 구성, 로컬 구동, 빌드와 배포(오프라인·보안 산출물), 운영 설정 요약, 문제 해결, 참고 문서 지도 |
