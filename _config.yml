@@ -1,0 +1,25 @@
+title: WECOMS24 Tech Blog
+description: 위컴스24 제품의 기술 소개·구동·배포·운영 문서
+url: "https://wecoms24.github.io"
+baseurl: "/tech-blog"
+lang: ko
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+enable_copy_code_button: true
+nav_sort: case_insensitive
+back_to_top: true
+back_to_top_text: "맨 위로"
+footer_content: "© WECOMS24. 문서는 각 제품 저장소의 docs/shared/guide 원본을 기준으로 옮겼다."
+aux_links:
+  "GitHub":
+    - "https://github.com/wecoms24/tech-blog"
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
