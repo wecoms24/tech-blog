@@ -13,4 +13,4 @@ PoC 채널에 들어온 실고객 문의를 날마다 대화 기록, AI 실행 �
 
 | 날짜 | 보고서 |
 |---|---|
-| 2026-11-11 | [보고서 열기]({{ "/poc/amore-chatbot/reports/2026-11-11.html" | relative_url }}) |
+| 2026-11-11 | [보고서 열기]({{ "/docs/poc/amore-chatbot/reports/2026-11-11.html" | relative_url }}) |
